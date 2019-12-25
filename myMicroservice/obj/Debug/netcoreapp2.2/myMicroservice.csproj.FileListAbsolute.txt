@@ -1,0 +1,14 @@
+C:\Repositories\Aks\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.csprojAssemblyReference.cache
+C:\Repositories\Aks\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.csproj.CoreCompileInputs.cache
+C:\Repositories\Aks\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.RazorAssemblyInfo.cache
+C:\Repositories\Aks\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.RazorAssemblyInfo.cs
+C:\Repositories\Aks\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.AssemblyInfoInputs.cache
+C:\Repositories\Aks\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.AssemblyInfo.cs
+C:\Repositories\Aks\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.deps.json
+C:\Repositories\Aks\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.runtimeconfig.json
+C:\Repositories\Aks\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.runtimeconfig.dev.json
+C:\Repositories\Aks\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.dll
+C:\Repositories\Aks\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.pdb
+C:\Repositories\Aks\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.RazorTargetAssemblyInfo.cache
+C:\Repositories\Aks\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.dll
+C:\Repositories\Aks\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.pdb
